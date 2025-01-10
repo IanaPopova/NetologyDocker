@@ -9,5 +9,5 @@ services:
       - ./data:/var/lib/postgresql/data
     environment:
       - POSTGRES_DB=db
-      - POSTGRES_USER=wndryn
-      - POSTGRES_PASSWORD=noneofyourbusiness
+      - POSTGRES_USER=ppvna
+      - POSTGRES_PASSWORD=password123
